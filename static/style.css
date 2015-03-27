@@ -1,0 +1,48 @@
+/********** Phones **********/
+@media only screen and (max-device-width: 480px) {
+	
+	#test-size{
+	display: none;
+	}
+	
+	p{
+	font-size: 2em;
+	}
+
+        a{
+        font-size:2em;
+        }
+	
+	img{
+	width: 100%
+	}
+	
+	#main-nav,
+	#footer-nav,
+	#main-full{
+	margin: 0;
+	}
+	
+	#menu-main li a{
+	width: 33.333%;
+	}
+	
+	#home, 
+	#home-grid .column, 
+	#home-featured{
+	width: 100%;
+	}
+	
+	#home{
+	background: black;
+	}
+
+	#home-grid .column{
+	background: #111;
+	}
+
+	#home-featured{
+	background: #777;
+	}
+}
+

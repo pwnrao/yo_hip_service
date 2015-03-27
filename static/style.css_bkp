@@ -1,0 +1,70 @@
+reset "utf-8";
+/* CSS Document */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 63px;
+}
+
+th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.medium {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px; font-weight: bold;
+}
+
+.mediumwhite{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+  color: #FFF;
+}
+
+.big {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px; font-weight: bold;
+}
+
+.xbig {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
+
