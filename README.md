@@ -1,6 +1,8 @@
 # yo hip service
 
 # Run
+   This service allows user to choose theme based music service upon which user will be provided with curated playlists as spotify deep link.
+   
    For a successful run, launch render.py, myFlask.py, yo_callback.py in the background. Run <python myspotify.py 1210795004> to populate the playlist database. Now yo to the YOLATESTSONGS channel and see the Magic happen.
 
 # Codebase
